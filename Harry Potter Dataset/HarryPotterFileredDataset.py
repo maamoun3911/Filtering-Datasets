@@ -1,3 +1,5 @@
+import pandas as pd
+
 csv_File_Address = './data/harrypotter_dataset.txt'
 
 # Two helper function for findTitlesRows(csv_File_Address)
